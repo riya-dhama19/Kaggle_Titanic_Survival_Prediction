@@ -1,5 +1,6 @@
 # Titanic_Survival_Prediction
 Create and Train Logistic Regression Model which predicts  whether a given passenger survived or not
+( Got 76% accuracy on kaggle)
 
 ## Objective :
 
